@@ -2,7 +2,7 @@
 *A Python game where you escape a dungeon by solving mazes.*
 Game French name : "Labyfun"
 
-## 🎮 Screenshot
+## Screenshot
 ![Game Screenshot](Labyfun_game_main.png)
 ![Game Screenshot](Labyfun_endgame.png)
 
