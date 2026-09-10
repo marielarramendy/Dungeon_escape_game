@@ -52,7 +52,7 @@ The goal is to escape a dungeon by solving 5 maze levels.
 - **Libraries**: Tkinter (for GUI)
 - **Tools**: Git, GitHub
 
-## 🤝 **Contributors**
+## Contributors
 - [@Tmarielarramendy](https://github.com/marielarramendy)
 - @Oscar Giret-Lauret
 - @Romain Gaildraud
